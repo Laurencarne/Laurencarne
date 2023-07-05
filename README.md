@@ -13,7 +13,12 @@
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/b77d1fd4-0130-4bc2-9c8d-453df6b652dd" width="50">
 </a>
 
-<a href="laurencarne13@gmail.com">
+<a href="laurencarne13@gmail.com" target="_blank">
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/ee302739-e0b6-4683-83be-70527a4d69af" width="50">
 </a>
+
+<a href="https://laurencarne.github.io/" target="_blank">
+<img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/1a688378-3ead-4cdc-85e8-3a12820e7458" width="50">
+</a>
 </div>
+
