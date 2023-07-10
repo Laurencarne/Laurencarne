@@ -9,7 +9,7 @@
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/dc9b1c95-a8f9-4ba5-99b5-4176626f3dc4" width="50">
 </a>
   
-<a href="https://github.com/Laurencarne/Laurencarne/files/11958850/Tech.CV.pdf">
+<a href="https://github.com/Laurencarne/Laurencarne/files/12001265/Lauren.Carne.CV.pdf">
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/b77d1fd4-0130-4bc2-9c8d-453df6b652dd" width="50">
 </a>
 
@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/lauren-carne-306a2a13/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"/>
   </a>
-  <a href="https://github.com/Laurencarne/Laurencarne/files/11958850/Tech.CV.pdf" title="Resume" target="_blank">
+  <a href="https://github.com/Laurencarne/Laurencarne/files/12001265/Lauren.Carne.CV.pdf" title="Resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-5C2D91?style=for-the-badge&logo=read.cv&logoColor=white" alt="resume">
   </a>
   <a href="mailto:laurencarne13@gmail.com" target="_blank">
@@ -67,8 +67,3 @@
     <img src="https://img.shields.io/badge/Website-1CB27E?style=for-the-badge&logo=icloud&logoColor=white" alt="website">
   </a>
 </div>
-
-
-
-
-
