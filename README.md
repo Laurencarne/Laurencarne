@@ -29,11 +29,11 @@
 
 👩 &nbsp; My pronouns are she/her
 
-👩‍💻 &nbsp; I am a mobile UI engineer with 4 years React Native experience, currently looking for roles in mobile and web development. I am a continuous learner with the drive and self motivation to pick up new languages and frameworks.
+👩‍💻 &nbsp; I am a mobile UI engineer with 5 years React Native experience, currently looking for roles in mobile and web development. I am a continuous learner with the drive and self motivation to pick up new languages and frameworks.
 
 🎨 &nbsp; Outside of the world of tech I also like pushing myself to try new things and learn new skills, such as up-cycling, running, playing guitar and just about anything arts and crafts related. 
 
-✈️ &nbsp; I **love** travelling! From 5 star resorts in the Caribbean to backpacking across Asia to camping under the starts in Oz, I love it all. My latest trip was backpacking through Cambodia and Vietnam! Recommendations on the next trip are always welcome!
+✈️ &nbsp; I **love** travelling! From 5 star resorts in the Caribbean to backpacking across Asia to camping under the starts in Oz, I love it all. My latest trip was backpacking through India! Recommendations on the next trip are always welcome!
 <br/><br/>
 <h2>⚒️ Tools and Languages</h2> 
 
